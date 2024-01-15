@@ -1,0 +1,15 @@
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\1 - SOLID principles\3 - Liskov Substitution Principle\LSP\LSP\bin\Debug\net6.0\LSP.exe
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\1 - SOLID principles\3 - Liskov Substitution Principle\LSP\LSP\bin\Debug\net6.0\LSP.deps.json
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\1 - SOLID principles\3 - Liskov Substitution Principle\LSP\LSP\bin\Debug\net6.0\LSP.runtimeconfig.json
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\1 - SOLID principles\3 - Liskov Substitution Principle\LSP\LSP\bin\Debug\net6.0\LSP.dll
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\1 - SOLID principles\3 - Liskov Substitution Principle\LSP\LSP\bin\Debug\net6.0\LSP.pdb
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\1 - SOLID principles\3 - Liskov Substitution Principle\LSP\LSP\obj\Debug\net6.0\LSP.csproj.AssemblyReference.cache
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\1 - SOLID principles\3 - Liskov Substitution Principle\LSP\LSP\obj\Debug\net6.0\LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\1 - SOLID principles\3 - Liskov Substitution Principle\LSP\LSP\obj\Debug\net6.0\LSP.AssemblyInfoInputs.cache
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\1 - SOLID principles\3 - Liskov Substitution Principle\LSP\LSP\obj\Debug\net6.0\LSP.AssemblyInfo.cs
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\1 - SOLID principles\3 - Liskov Substitution Principle\LSP\LSP\obj\Debug\net6.0\LSP.csproj.CoreCompileInputs.cache
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\1 - SOLID principles\3 - Liskov Substitution Principle\LSP\LSP\obj\Debug\net6.0\LSP.dll
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\1 - SOLID principles\3 - Liskov Substitution Principle\LSP\LSP\obj\Debug\net6.0\refint\LSP.dll
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\1 - SOLID principles\3 - Liskov Substitution Principle\LSP\LSP\obj\Debug\net6.0\LSP.pdb
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\1 - SOLID principles\3 - Liskov Substitution Principle\LSP\LSP\obj\Debug\net6.0\LSP.genruntimeconfig.cache
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\1 - SOLID principles\3 - Liskov Substitution Principle\LSP\LSP\obj\Debug\net6.0\ref\LSP.dll
