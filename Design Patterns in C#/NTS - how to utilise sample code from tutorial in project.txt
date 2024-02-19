@@ -1,0 +1,24 @@
+1/ Create target folder.
+2/ Open Visual Studio.
+3/ Create New Project -> select Console App.
+4/ Give project name and select target folder.
+5/ Overwrite the .cs file with the sample code.
+
+Note:
+Some sample code may not work because there is no main entry point. In these cases, if the code is only demonstrating the lesson objective through non-functional means then it is not important.
+
+To modify so there is a main entry point, move/ create the Main method out of any other class and place it in a separate class at the namespace level, not nested within any class. This class could be called 'Program' which is a common convention for the entry point in C# applications. For example:
+
+    ...
+
+    // This class is added to contain the Main method
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            ...
+
+            new Anything(another);
+        }
+    }
+}
