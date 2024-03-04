@@ -1,0 +1,15 @@
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\2 - Builder\Builder\Builder\bin\Debug\net6.0\Builder.exe
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\2 - Builder\Builder\Builder\bin\Debug\net6.0\Builder.deps.json
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\2 - Builder\Builder\Builder\bin\Debug\net6.0\Builder.runtimeconfig.json
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\2 - Builder\Builder\Builder\bin\Debug\net6.0\Builder.dll
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\2 - Builder\Builder\Builder\bin\Debug\net6.0\Builder.pdb
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\2 - Builder\Builder\Builder\obj\Debug\net6.0\Builder.csproj.AssemblyReference.cache
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\2 - Builder\Builder\Builder\obj\Debug\net6.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\2 - Builder\Builder\Builder\obj\Debug\net6.0\Builder.AssemblyInfoInputs.cache
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\2 - Builder\Builder\Builder\obj\Debug\net6.0\Builder.AssemblyInfo.cs
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\2 - Builder\Builder\Builder\obj\Debug\net6.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\2 - Builder\Builder\Builder\obj\Debug\net6.0\Builder.dll
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\2 - Builder\Builder\Builder\obj\Debug\net6.0\refint\Builder.dll
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\2 - Builder\Builder\Builder\obj\Debug\net6.0\Builder.pdb
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\2 - Builder\Builder\Builder\obj\Debug\net6.0\Builder.genruntimeconfig.cache
+C:\Users\dloft\Documents\Code Projects\_Udemy\Udemy\Design Patterns in C#\2 - Builder\Builder\Builder\obj\Debug\net6.0\ref\Builder.dll
